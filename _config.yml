@@ -25,7 +25,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Write-Ups:
-    - HTB: "/README.md"
+    - HTB: "README.md"
 #     SANS: "README.md"
 #        HHC: "https://holidayhackchallenge.com/2019/"
 #          2019-KringleCon: "2019 KringleCon 2: TurtleDoves"
