@@ -21,13 +21,13 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#  Resources:
-#     Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     Learn markdown: "http://www.markdowntutorial.com/"
-  Write-Ups:
-     HTB: "README.md"
-     SANS: "README.md"
-        HHC: "https://holidayhackchallenge.com/2019/"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+#  Write-Ups:
+#     HTB: "README.md"
+#     SANS: "README.md"
+#        HHC: "https://holidayhackchallenge.com/2019/"
 #          2019-KringleCon: "2019 KringleCon 2: TurtleDoves"
 #          2018-KringleCon: "2018 KringleCon"
   Author's home: "https://jmarr73.github.io"
